@@ -121,7 +121,7 @@ body{-webkit-text-size-adjust: none;font-family: helvetica,'LiHei Pro','微軟�
 	position: relative;
 	top: 105px;
 	font-size: 42px;
-	letter-spacing: -0.5px;
+	letter-spacing: -1.5px;
 	color:#ff007f;
 }
 .cover em b{
@@ -129,8 +129,8 @@ body{-webkit-text-size-adjust: none;font-family: helvetica,'LiHei Pro','微軟�
 	width: 115px;
 	text-align: center;
 	position: relative;
-	font-family: georgia;
-	font-weight: bold;
+	font-family: verdana;
+	font-weight: normal;
 }
 
 .cover em b::before{
